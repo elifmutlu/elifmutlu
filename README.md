@@ -9,12 +9,12 @@
 
 ### Hello there! 👋 This is Elif Mutlu.
 
-- 🔭 He is currently working on UIKit.
-- 🌱 He is currently learning SwiftUI and UIKit.
-- 📫 You can reach him at **elifmutlu174@gmail.com**
+- 🔭 She is currently working on Commuinty Manager.
+- 🌱 She is currently learning JavaScript and .
+- 📫 You can reach her at **elifmutlu174@gmail.com**
 
 
-🔗 &nbsp;**Connect With Him**
+🔗 &nbsp;**Connect With Her**
 <p align="left">
 <a href="https://www.instagram.com/eliffmuttlu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eliffmuttlu" height="30" width="40" /></a>
 
