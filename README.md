@@ -10,7 +10,7 @@
 ### Hello there! 👋 This is Elif Mutlu.
 
 - 🔭 She is currently working on Commuinty Manager.
-- 🌱 She is currently learning JavaScript and .
+- 🌱 She is currently learning JavaScript and React Native.
 - 📫 You can reach her at **elifmutlu174@gmail.com**
 
 
